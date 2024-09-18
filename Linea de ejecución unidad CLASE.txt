@@ -1,0 +1,4 @@
+Linea de ejecución: unidad D:CLASES\TAREA
+
+
+newman run tarea.json --environment entorno.json -d productos.csv -r cli,json,htmlextra
